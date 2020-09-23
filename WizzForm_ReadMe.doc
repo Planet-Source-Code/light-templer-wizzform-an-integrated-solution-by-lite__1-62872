@@ -1,0 +1,128 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1031\deflangfe1031{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f28\froman\fcharset238\fprq2 Times New Roman CE;}{\f29\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f31\froman\fcharset161\fprq2 Times New Roman Greek;}{\f32\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f33\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f34\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f35\froman\fcharset186\fprq2 Times New Roman Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1031\langfe1031\cgrid\langnp1031\langfenp1031 \snext0 Normal;}{
+\s1\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 \b\i\fs44\lang1033\langfe1031\cgrid\langnp1033\langfenp1031 \sbasedon0 \snext0 heading 1;}{\*\cs10 \additive Default Paragraph Font;}{\*\cs15 \additive \ul\cf2 \sbasedon10 Hyperlink;}}
+{\info{\author wirthg}{\operator wirthg}{\creatim\yr2005\mo10\dy13\hr14\min57}{\revtim\yr2005\mo10\dy13\hr15\min10}{\version4}{\edmins0}{\nofpages3}{\nofwords627}{\nofchars3574}{\*\company SDS}{\nofcharsws4389}{\vern8283}}
+\margl1417\margr1417\margt1417\margb1134 \widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale115\nolnhtadjtbl \fet0\sectd \linex0\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang
+{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7
+\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain 
+\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1031\langfe1031\cgrid\langnp1031\langfenp1031 {\fs20 
+\par }\pard\plain \s1\qc \li0\ri0\keepn\nowidctlpar\faauto\outlinelevel0\rin0\lin0\itap0 \b\i\fs44\lang1033\langfe1031\cgrid\langnp1033\langfenp1031 {WizzForm 1.02}{\fs20 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1031\langfe1031\cgrid\langnp1031\langfenp1031 {\fs20\lang1033\langfe1031\langnp1033 _________________________________________________________________________________________
+\par }{\i\fs20\lang1033\langfe1031\langnp1033 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\i\fs20\lang1033\langfe1031\langnp1033 Here you will find informations arround WizzForm }{\fs20\lang1033\langfe1031\langnp1033 _________________________________
+________________________________________________________
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 
+\par 
+\par }{\lang1033\langfe1031\langnp1033    \tab ucWizzForm.ctl}{\fs22\lang1033\langfe1031\langnp1033 
+\par 
+\par    \tab Start\tab \tab :    \tab 06/14/2004
+\par \tab Created by \tab :    \tab LightTempler
+\par \tab Last edit  \tab :    \tab 10/12/2005
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 What}{\fs26\lang1033\langfe1031\langnp1033 
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par Often needed functions and extensions when working with VB forms in a fully self-contained
+\par }{\b\fs22\lang1033\langfe1031\langnp1033 usercontrol}{\fs22\lang1033\langfe1031\langnp1033  (thx&credits to Paul Caton! - no more bas file(s), IDE crash or anything else on subclassing).
+\par 
+\par 
+\par   *  Restrict forms size (min/max) flickerfree.
+\par   *  Get much more events (app activate/deactivate, resize start/end, move start/end, ... )
+\par   *  Save/restore forms last size/position to registry or INI file (still yet:  No line of code ... ;) )
+\par   *  Two more buttons in forms caption bar :
+\par \tab \tab 1 - Collapse to headline/restore to previous size
+\par \tab \tab 2 - Stay on top of all other windows
+\par   *  Form resizing with auto keep aspect ratio.
+\par   *  A simple and vary good solution to resize/reposition controls on form when resizing the form.
+\par   *  Drag form full or frame only independent to control panels setting.
+\par   *  Center/resize form to useable desktop area with respect to all taskbars. A gap to the borders can be given.
+\par   *  Show form without activation.
+\par   *  Some usefull properties.
+\par   *  And more ...
+\par 
+\par All of this features are switchable/configurable on design time in WizzForms usercontrol
+\par property window. No line of code neccessary!
+\par Switch them on or off, single (or all together with the 'Enabled' property).
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 What not
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par   *  The usercontrol-on-a-form problem:
+\par \tab Normaly when you put an usercontrol onto a form you got a very special problem because of a
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 VB bug:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 \tab When you create a link to your compiled VB exe and set the link property e.g. to'show minimized'
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 than, when starting your app using this link, your app appears - in normal mode, NOT
+\par minimized  as expected ... :-(  The same for 'show maximized', of corse.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 \tab WizzFom fixes this for your form. Use as many other usercontrols you like.
+\par   *  Problems with older VB versions.
+\par \tab All the stuff here should run without trouble in VB5 and VB6.
+\par \tab Right know no support of themed look of the additional buttons in forms caption bar on XP
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033  I couldn't check this out, because I don't have/use Win XP. MS has changed the design/painting
+\par so maybe the 'PaintCaptionButton()'  needs some additions.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033   *  And here are no fancy explode-the-form-in/out effects, no form-as-a-star region functions and
+\par       no transparency or hole-into-the-form-gimmicks, just production stuff for \'93serious\'94 apps ;-)
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 Credits
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par PAUL CATON\tab \tab This usercontrol uses Pauls fantastic subclassing code with "inline"-assembler
+\par                                    \tab technik - v1.1.0005 20040620 - released on }{\field{\*\fldinst {\fs22\lang1033\langfe1031\langnp1033  HYPERLINK "http://WWW.Planet-Source-Code.Com" }{\fs22\lang1033\langfe1031\langnp1033 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001b0000005700570057002e0050006c0061006e00650074002d0053006f0075007200630065002d0043006f00640065002e0043006f006d000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f007700770077002e007000
+6c0061006e00650074002d0073006f0075007200630065002d0063006f00640065002e0063006f006d002f000000}}}{\fldrslt {\cs15\fs22\ul\cf2\lang1033\langfe1031\langnp1033 WWW.Planet-Source-Code.Com}}}{\fs22\lang1033\langfe1031\langnp1033 
+\par }\pard \ql \fi720\li1440\ri0\nowidctlpar\faauto\rin0\lin1440\itap0 {\fs22\lang1033\langfe1031\langnp1033 / VB section. Definitions and code are reformated and integrated by me.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 
+\par BRYAN STAFFORD\tab He released a demo for a button in form's caption bar. I reused partsof his code
+\par }\pard \ql \fi720\li1440\ri0\nowidctlpar\faauto\rin0\lin1440\itap0 {\fs22\lang1033\langfe1031\langnp1033 and solutions.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 
+\par SIMON MORGAN\tab His submission on PSC shows me a working way to put a form on top of all 
+\par }\pard \ql \fi720\li1440\ri0\nowidctlpar\faauto\rin0\lin1440\itap0 {\fs22\lang1033\langfe1031\langnp1033 others,  even on W2K and WinXP.
+\par 
+\par }\pard \ql \fi-2160\li2160\ri0\nowidctlpar\faauto\rin0\lin2160\itap0 {\fs22\lang1033\langfe1031\langnp1033 CARLES P.V.\tab His gradient solution topped my own on a small competition on PSC/VB to get
+\par }\pard \ql \li2160\ri0\nowidctlpar\faauto\rin0\lin2160\itap0 {\fs22\lang1033\langfe1031\langnp1033 the ultimate gradient solution for length }{\fs22\lang1033\langfe1031\langnp1033 {\field{\*\fldinst SYMBOL 74 \\f "Wingdings" \\s 11}{\fldrslt\f14\fs22}}}{
+\fs22\lang1033\langfe1031\langnp1033 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 
+\par Abstractvb.com  \tab Vbspeed.com says (after good tests):  Its the fastest solution to split a RGB value
+\par                                    \tab into components.
+\par 
+\par Aboutvb.de\tab \tab Thx for the article with bas to fix the VB bug, when a usercontrol is placed onto
+\par }\pard \ql \fi720\li1440\ri0\nowidctlpar\faauto\rin0\lin1440\itap0 {\fs22\lang1033\langfe1031\langnp1033 a form.  (look at 'StartUpWindowState()')
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs22\lang1033\langfe1031\langnp1033 
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 Specials
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par Nice code and solution you will find anywhere in code. Some very special worth to have a look subs are:
+\par        \tab \tab \tab DrawTopDownGradient()
+\par \tab \tab \tab PersistentValueSave()
+\par \tab \tab \tab PersistentValueLoad()
+\par \tab \tab \tab ResizeControls()
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 Copyright
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par (C) by Light Templer. This usercontrol is free to use in any project. Don't build an ActiveX from and sell it as yours ...
+\par Use at your own risk - I'm definitly NOT responsible for anything ;) .
+\par 
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 Contact
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par Feel free to send me an email with your questions/suggestions/improvements to WizzForm
+\par 
+\par \tab \tab \tab schwepps_bitterlemon@gmx.de
+\par 
+\par 
+\par }{\b\fs26\lang1033\langfe1031\langnp1033 Update
+\par }{\fs22\lang1033\langfe1031\langnp1033 
+\par Right now V. 1.02 is the first public release, so there are no updates yet.
+\par All bugfixes (don't hope I need them ;) ) and improvements will be done as fast as possible
+\par and uploaded to PSC VB.
+\par }{\fs20\lang1033\langfe1031\langnp1033 
+\par 
+\par 
+\par #*#
+\par }}
